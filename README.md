@@ -39,7 +39,7 @@ while True:
 
 
 ## OUTPUT
-![Screenshot 2024-09-02 145221](https://github.com/user-attachments/assets/462ec8ac-ca19-4836-b819-5063865b38ca)
+
 ![Screenshot 2024-09-02 145248](https://github.com/user-attachments/assets/a2790ce6-374f-4be6-8d6f-1070bcca5d2a)
 
 
